@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Spotify cache
+.cache
+.spotify_cache
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
